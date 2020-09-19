@@ -1,0 +1,63 @@
+[
+    {
+        "nomeDoPrato": "FALAFEL",
+        "tipoDeComida": ["vegetariana", "vegana"],
+        "ingredientes": ["grão de bico","coentro", "hortelã","cebola","alho","especiarias"],
+        "Origem": "Oriente Médio"
+
+    },
+    {
+        "nomeDoPrato": " MOUSSAKA",
+        "tipoDeComida": "carnívora",
+        "ingredientes": ["molho de queijo bechamel", "carne de cordeiro", "berinjela"],
+        "Origem": "Grécia"
+    },
+    {
+        "nomeDoPrato": "MASALA DOSA",
+        "tipoDeComida": "massa",
+        "ingredientes": ["arroz e lentilhas", "ou purê de batatas", "cebolas fritas", "chutney"],
+        "Origem": "Indía"
+    },
+    {
+        "nomeDoPrato": "ZUCHINI FLOWERS",
+        "tipoDeComida": "ovolactovegetariana",
+        "ingredientes": ["flores de abobrinha","ricota e ervas", "ou queijo mozarela"],
+        "Origem": "Toscana"
+    },
+    {
+        "nomeDoPrato": "LAKSA SOUP",
+        "tipoDeComida": "pescetariana",
+        "ingredientes": ["macarrão", "mariscos", "filetes de peixe", "tofu", "legumes", "ovo cozido", "pimenta sambal","coentro"],
+        "Origem": "Malásia"
+    },
+    {
+        "nomeDoPrato": "SOM TAM",
+        "tipoDeComida": "pescetariana",
+        "ingredientes": ["mamão verde","molho de peixe", "suco de tamarindo", "camarão seco", "frutos do mar", "amendoim", "cenouras","tomates"],
+        "Origem": "Tailândia"
+    },
+    {
+        "nomeDoPrato": "PAVLOVA",
+        "tipoDeComida": "sobremesa",
+        "ingredientes": ["merengue", "frutas", "chantilly"],
+        "Origem": "Oceania"
+    },
+    {
+        "nomeDoPrato": "TACOS",
+        "tipoDeComida": "carnívora",
+        "ingredientes": ["milho", "carne", "tomate", "queijo", "alface"],
+        "Origem": "México"
+    },
+    {
+        "nomeDoPrato": "ALFAJORES ",
+        "tipoDeComida": "sobremesa",
+        "ingredientes": ["chocolate","doce leite"],
+        "Origem": "Argentina"
+    },
+    {
+        "nomeDoPrato": "IRISH STEW",
+        "tipoDeComida": "carnívoro",
+        "ingredientes": ["carne de carneiro", "cebola", "batata", "cenoura", "aipo", "salsa picada", "caldo de carne", "sal", "pimenta"],
+        "Origem": "Irlanda"
+    }
+]
