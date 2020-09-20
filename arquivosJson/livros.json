@@ -40,5 +40,19 @@
         "lançamento": 1987,
         "autor(es)": "Maria José Borges Lins e Silva",
         "gênero": ""
+    },
+    {
+        "nomeDoLivro": "A cozinha pernambucana em Gilberto Freyre: um encontro entre povos e culturas",
+        "editora": "Biblioteca 24 Horas",
+        "lançamento": 2013,
+        "autor(es)": "Raul Lody",
+        "gênero": ""
+    },
+    {
+        "nomeDoLivro": "ESCRITORES PERNAMBUCANOS DO SÉCULO XIX - TOMO 1",
+        "editora": "Cepe",
+        "lançamento": 2010,
+        "autor(es)": "Raul Lody",
+        "gênero": ["literatura", "ensaio"]
     }
 ]
