@@ -1,0 +1,62 @@
+[
+{
+    "nomeLenda": "Os fantasmas do Teatro de Santa Isabel",
+    "local": "Teatro Santa Isabel",
+    "cidade": "Recife"
+    
+},
+{
+    "nomeLenda": "Alamoa, em Fernando de Noronha",
+    "local": "Ilha de Fernando de Noronha",
+    "cidade": "Fernando de Noronha"
+    
+},
+{
+    "nomeLenda": "Pai da Mata",
+    "local": "Zona da Mata Sul do Estado",
+    "cidade": ""
+    
+},
+{
+    "nomeLenda": "O fantasma de Branca Dias",
+    "local": "Riacho do Prata",
+    "cidade": "Recife"
+    
+},
+{
+    "nomeLenda": "Papa-figo",
+    "local":"Ruas",
+    "cidade": ["Recife", "Zona da Mata"]
+    
+},
+{
+    "nomeLenda": "A Mulher da Sombrinha",
+    "local":"vias desertas",
+    "cidade": "Catende"
+    
+},
+{
+    "nomeLenda": "Encanta-moça",
+    "local":"mangues em torno Capibaribe",
+    "cidade": "Recife"
+    
+},
+{
+    "nomeLenda": "Fantasmas do Capibaribe",
+    "local":"Rio Capibaribe",
+    "cidade": "Recife"
+    
+},
+{
+    "nomeLenda": "Mulher Sinistra do Pátio de São Pedro",
+    "local":"Pátio de São Pedro",
+    "cidade": "Recife"
+    
+},
+{
+    "nomeLenda": "A Velhinha da Caxangá",
+    "local":"Avenida Caxangá",
+    "cidade": "Recife"
+    
+}
+]

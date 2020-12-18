@@ -1,0 +1,56 @@
+[
+    {
+        "nomePopular":"suzana-dos-olhos-negros",
+        "categoria": "trepadeiras",
+        "espécie": "Thunbergia alata",
+        "origem": "África"
+    },
+    {
+        "nomePopular":"cacto-estrela",
+        "categoria": "cactos",
+        "espécie": "Stapelia hirsuta",
+        "origem": "África do Sul"
+    },
+    {
+        "nomePopular":"dente-de-leão",
+        "categoria": "PANCs",
+        "espécie": "Taraxacum officinale",
+        "origem": "Ásia, Europa e América"
+    },
+    {
+        "nomePopular":"rabo de macaco",
+        "categoria": "cactos",
+        "espécie": "Cleistocactus colademononis",
+        "origem": "Bolívia"
+    },
+    {
+        "nomePopular":"costela-de-adão",
+        "categoria": "folhagens",
+        "espécie": "Monstera deliciosa",
+        "origem": "Américas Central"
+    },
+    {
+        "nomePopular":"costela-de-adão",
+        "categoria": "folhagens",
+        "espécie": "Monstera deliciosa",
+        "origem": "Américas Central"
+    },
+    {
+        "nomePopular":"cacau",
+        "categoria": "frutíferas",
+        "espécie": "Theobroma cacao",
+        "origem": ["México", "Onduras","Venezuela"]
+    },
+    {
+        "nomePopular":"ripsális",
+        "categoria": "suculentas",
+        "espécie": "Rhipsalis baccifera",
+        "origem": ["África","Sri Lanka"]
+    },
+    {
+        "nomePopular":"samambaia-havaiana",
+        "categoria": "samambaias",
+        "espécie": "Nephrolepis exaltata",
+        "origem": "híbrido"
+    }
+]
